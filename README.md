@@ -8,7 +8,7 @@ Check out the live application here: [React Real Estate UI Design](https://www.p
 
 ## Backend Repository
 
-The backend for this project is hosted on GitHub. You can find it here: [Backend Repository](https://github.com/priyanshu-mandloi/pm-estate-backend.git)
+The backend for this project is hosted on GitHub. You can find it here: [Backend Repository](https://github.com/priyanshu-mandloi/backend.git)
 
 ## Socket.IO Integration
 
